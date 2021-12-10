@@ -21,5 +21,5 @@ Simply run the following to install the dependancies
 Then run
 
 ```bash
-node createAccountAndSendNear
+node createAccountAndSendNear.js
 ```
